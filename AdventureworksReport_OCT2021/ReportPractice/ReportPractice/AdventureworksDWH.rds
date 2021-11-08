@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="AdventureworksDWH">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=LAPTOP-6OHVOO0K\DEV200;Initial Catalog=AdventurewordkDW2012</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>827c9bea-5aa6-4704-acba-ef9b18bb1d64</DataSourceID>
+</RptDataSource>
